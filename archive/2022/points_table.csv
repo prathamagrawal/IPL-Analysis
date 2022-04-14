@@ -1,0 +1,11 @@
+season,rank,name,short_name,matchesplayed,matcheswon,matcheslost,noresult,matchpoints,nrr,for,against
+2022,1,Rajasthan Royals,RR,4,3,1,0,6,0.951,737/80.0,654/79.1
+2022,2,Kolkata Knight Riders,KKR,5,3,2,0,6,0.446,735/89.0,776/99.2
+2022,3,Punjab Kings,KXIP,5,3,2,0,6,0.239,912/99.0,848/94.3
+2022,4,Lucknow Super Giants,LSG,5,3,2,0,6,0.174,855/99.1,842/99.4
+2022,5,Gujarat Titans,GT,4,3,1,0,6,0.097,684/79.4,672/79.1
+2022,6,Royal Challengers Bangalore,RCB,5,3,2,0,6,0.006,855/97.0,872/99.0
+2022,7,Delhi Capitals,DC,4,2,2,0,4,0.476,700/78.2,674/79.4
+2022,8,Sunrisers Hyderabad,SRH,4,2,2,0,4,-0.501,629/76.5,695/80.0
+2022,9,Chennai Super Kings,CSK,5,1,4,0,2,-0.745,837/100.0,872/95.4
+2022,10,Mumbai Indians,MI,5,0,5,0,0,-1.072,845/100.0,884/92.5
