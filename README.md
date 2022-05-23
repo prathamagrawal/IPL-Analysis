@@ -2,7 +2,7 @@
 The Indian Premier League is a professional men's Twenty20 cricket league, contested by ten teams based in seven Indian cities and three Indian states. The league was founded by the Board of Control for Cricket in India in 2007.
 
 A lot of times, we need to answer complex data analytical questions or take data-driven decisions, or complex data visualizations. To accomplish the above tasks we need
-1. Detailed Data
+1. Detailed Data <br>
 2. Clean processed data
 3. Understanding of data, "Simple to understand Data"
 
